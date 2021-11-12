@@ -1,0 +1,1567 @@
+yarn run v1.22.10
+$ yarn ts-node --compiler-options '{ "module": "commonjs", "jsx": "react" }' scripts/dumpHeader.ts ./bin
+$ /home/matt/dev/neosdcd/node_modules/.bin/ts-node --compiler-options '{ "module": "commonjs", "jsx": "react" }' scripts/dumpHeader.ts ./bin
+2020bbcd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 96,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "--------Super-Baseball--CD-------",
+    "manufacturer": "---SNK-----------",
+    "year": 1995,
+    "genre": 3,
+    "screenshot": 185,
+    "NGH": "0000cd00"
+  }
+}
+adkworld.neo
+{
+  "filler": [
+    {
+      "offset": "00",
+      "value": "20"
+    },
+    {
+      "offset": "01",
+      "value": "44"
+    },
+    {
+      "offset": "02",
+      "value": "65"
+    },
+    {
+      "offset": "03",
+      "value": "6e"
+    },
+    {
+      "offset": "04",
+      "value": "73"
+    },
+    {
+      "offset": "05",
+      "value": "68"
+    },
+    {
+      "offset": "06",
+      "value": "69"
+    },
+    {
+      "offset": "07",
+      "value": "20"
+    },
+    {
+      "offset": "08",
+      "value": "43"
+    },
+    {
+      "offset": "09",
+      "value": "6f"
+    },
+    {
+      "offset": "0a",
+      "value": "2e"
+    }
+  ],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 672,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---ADK-World--CD-----------------",
+    "manufacturer": "---Alpha-Denshi-C",
+    "year": 1995,
+    "genre": 0,
+    "screenshot": 187,
+    "NGH": "0000cd00"
+  }
+}
+alpham2cd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 64,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Alpha-Mission-II--CD----------",
+    "manufacturer": "---SNK-----------",
+    "year": 1994,
+    "genre": 7,
+    "screenshot": 1,
+    "NGH": "0000cd00"
+  }
+}
+aof2cd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 96,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Art-of-Fighting----CD---------",
+    "manufacturer": "---SNK-----------",
+    "year": 1994,
+    "genre": 9,
+    "screenshot": 5,
+    "NGH": "0000cd00"
+  }
+}
+aofcd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 224,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Art-of-Fighting--CD-----------",
+    "manufacturer": "---SNK-----------",
+    "year": 1994,
+    "genre": 9,
+    "screenshot": 4,
+    "NGH": "0000cd00"
+  }
+}
+bjourneycd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 64,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Blue-s-Journey--CD------------",
+    "manufacturer": "---SNK-----------",
+    "year": 1994,
+    "genre": 5,
+    "screenshot": 10,
+    "NGH": "0000cd00"
+  }
+}
+bstars2cd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 64,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Baseball-Stars----CD----------",
+    "manufacturer": "---SNK-----------",
+    "year": 1994,
+    "genre": 3,
+    "screenshot": 15,
+    "NGH": "0000cd00"
+  }
+}
+burningfcd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 64,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Burning-Fight--CD-------------",
+    "manufacturer": "---SNK-----------",
+    "year": 1994,
+    "genre": 9,
+    "screenshot": 16,
+    "NGH": "0000cd00"
+  }
+}
+cdspecial.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 23392,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Neo-Geo-CD-Special--CD--------",
+    "manufacturer": "---SNK-----------",
+    "year": 1995,
+    "genre": 0,
+    "screenshot": 188,
+    "NGH": "0000cd00"
+  }
+}
+crswordcd.neo
+{
+  "filler": [
+    {
+      "offset": "00",
+      "value": "20"
+    },
+    {
+      "offset": "01",
+      "value": "44"
+    },
+    {
+      "offset": "02",
+      "value": "65"
+    },
+    {
+      "offset": "03",
+      "value": "6e"
+    },
+    {
+      "offset": "04",
+      "value": "73"
+    },
+    {
+      "offset": "05",
+      "value": "68"
+    },
+    {
+      "offset": "06",
+      "value": "69"
+    },
+    {
+      "offset": "07",
+      "value": "20"
+    },
+    {
+      "offset": "08",
+      "value": "43"
+    },
+    {
+      "offset": "09",
+      "value": "6f"
+    },
+    {
+      "offset": "0a",
+      "value": "2e"
+    }
+  ],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 128,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Crossed-Swords--CD------------",
+    "manufacturer": "---Alpha-Denshi-C",
+    "year": 1994,
+    "genre": 1,
+    "screenshot": 18,
+    "NGH": "0000cd00"
+  }
+}
+cswords2.neo
+{
+  "filler": [
+    {
+      "offset": "00",
+      "value": "20"
+    },
+    {
+      "offset": "01",
+      "value": "44"
+    },
+    {
+      "offset": "02",
+      "value": "65"
+    },
+    {
+      "offset": "03",
+      "value": "6e"
+    },
+    {
+      "offset": "04",
+      "value": "73"
+    },
+    {
+      "offset": "05",
+      "value": "68"
+    },
+    {
+      "offset": "06",
+      "value": "69"
+    },
+    {
+      "offset": "07",
+      "value": "20"
+    },
+    {
+      "offset": "08",
+      "value": "43"
+    },
+    {
+      "offset": "09",
+      "value": "6f"
+    },
+    {
+      "offset": "0a",
+      "value": "2e"
+    }
+  ],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 672,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Crossed-Swords-II--CD---------",
+    "manufacturer": "---Alpha-Denshi-C",
+    "year": 1995,
+    "genre": 1,
+    "screenshot": 17,
+    "NGH": "0000cd00"
+  }
+}
+cyberlipcd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 8192,
+    "s": 0,
+    "m": 0,
+    "v1": 480,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Cyber-Lip--CD-----------------",
+    "manufacturer": "---SNK-----------",
+    "year": 1994,
+    "genre": 1,
+    "screenshot": 22,
+    "NGH": "0000cd00"
+  }
+}
+fbfrenzycd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 64,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Football-Frenzy--CD-----------",
+    "manufacturer": "---SNK-----------",
+    "year": 1994,
+    "genre": 3,
+    "screenshot": 31,
+    "NGH": "0000cd00"
+  }
+}
+fromance2.neo
+{
+  "filler": [
+    {
+      "offset": "00",
+      "value": "20"
+    },
+    {
+      "offset": "01",
+      "value": "53"
+    },
+    {
+      "offset": "02",
+      "value": "79"
+    },
+    {
+      "offset": "03",
+      "value": "73"
+    },
+    {
+      "offset": "04",
+      "value": "74"
+    },
+    {
+      "offset": "05",
+      "value": "65"
+    },
+    {
+      "offset": "06",
+      "value": "6d"
+    }
+  ],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 128,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Idol-Mahjong-Final-Romance---C",
+    "manufacturer": "D--Video-System--",
+    "year": 1995,
+    "genre": 6,
+    "screenshot": 34,
+    "NGH": "0000cd00"
+  }
+}
+gowcaizrcd.neo
+{
+  "filler": [
+    {
+      "offset": "00",
+      "value": "6f"
+    },
+    {
+      "offset": "01",
+      "value": "73"
+    }
+  ],
+  "sizes": {
+    "p": 8192,
+    "s": 0,
+    "m": 0,
+    "v1": 33504,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Voltage-Fighter---Gowcaizer--C",
+    "manufacturer": "D--Technos-------",
+    "year": 1995,
+    "genre": 9,
+    "screenshot": 41,
+    "NGH": "0000cd00"
+  }
+}
+gpilotscd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 224,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Ghost-Pilots--CD--------------",
+    "manufacturer": "---SNK-----------",
+    "year": 1995,
+    "genre": 7,
+    "screenshot": 42,
+    "NGH": "0000cd00"
+  }
+}
+ironcladcd.neo
+{
+  "filler": [
+    {
+      "offset": "00",
+      "value": "73"
+    }
+  ],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 416,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Chotetsu-Brikin-ger--CD-------",
+    "manufacturer": "---Saurus--------",
+    "year": 1996,
+    "genre": 7,
+    "screenshot": 45,
+    "NGH": "0000cd00"
+  }
+}
+janshincd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 64,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Janshin-Densetsu--CD----------",
+    "manufacturer": "---Aicom---------",
+    "year": 1995,
+    "genre": 6,
+    "screenshot": 47,
+    "NGH": "0000cd00"
+  }
+}
+kof96c.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 7680,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---The-King-of-Fighters-----Col-C",
+    "manufacturer": "D--SNK-----------",
+    "year": 1997,
+    "genre": 9,
+    "screenshot": 189,
+    "NGH": "0000cd00"
+  }
+}
+lastbladcd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 4160,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---The-Last-Blade--CD------------",
+    "manufacturer": "---SNK-----------",
+    "year": 1997,
+    "genre": 9,
+    "screenshot": 81,
+    "NGH": "0000cd00"
+  }
+}
+lastbld2cd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 4448,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---The-Last-Blade----CD----------",
+    "manufacturer": "---SNK-----------",
+    "year": 1998,
+    "genre": 9,
+    "screenshot": 82,
+    "NGH": "0000cd00"
+  }
+}
+lbowlingcd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 192,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---League-Bowling--CD------------",
+    "manufacturer": "---SNK-----------",
+    "year": 1994,
+    "genre": 3,
+    "screenshot": 85,
+    "NGH": "0000cd00"
+  }
+}
+lresortcd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 64,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Last-Resort--CD---------------",
+    "manufacturer": "---SNK-----------",
+    "year": 1994,
+    "genre": 7,
+    "screenshot": 87,
+    "NGH": "0000cd00"
+  }
+}
+maglordcd.neo
+{
+  "filler": [
+    {
+      "offset": "00",
+      "value": "20"
+    },
+    {
+      "offset": "01",
+      "value": "44"
+    },
+    {
+      "offset": "02",
+      "value": "65"
+    },
+    {
+      "offset": "03",
+      "value": "6e"
+    },
+    {
+      "offset": "04",
+      "value": "73"
+    },
+    {
+      "offset": "05",
+      "value": "68"
+    },
+    {
+      "offset": "06",
+      "value": "69"
+    },
+    {
+      "offset": "07",
+      "value": "20"
+    },
+    {
+      "offset": "08",
+      "value": "43"
+    },
+    {
+      "offset": "09",
+      "value": "6f"
+    },
+    {
+      "offset": "0a",
+      "value": "2e"
+    }
+  ],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 128,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Magician-Lord--CD-------------",
+    "manufacturer": "---Alpha-Denshi-C",
+    "year": 1994,
+    "genre": 1,
+    "screenshot": 90,
+    "NGH": "0000cd00"
+  }
+}
+mahretsucd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 384,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Mahjong-Kyo-Retsuden--CD------",
+    "manufacturer": "---SNK-----------",
+    "year": 1994,
+    "genre": 6,
+    "screenshot": 91,
+    "NGH": "0000cd00"
+  }
+}
+moshougicd.neo
+{
+  "filler": [
+    {
+      "offset": "00",
+      "value": "20"
+    },
+    {
+      "offset": "01",
+      "value": "53"
+    },
+    {
+      "offset": "02",
+      "value": "4e"
+    },
+    {
+      "offset": "03",
+      "value": "4b"
+    }
+  ],
+  "sizes": {
+    "p": 8192,
+    "s": 0,
+    "m": 0,
+    "v1": 96,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Master-of-Shougi--CD----------",
+    "manufacturer": "---ADK---SNK-----",
+    "year": 1995,
+    "genre": 6,
+    "screenshot": 96,
+    "NGH": "0000cd00"
+  }
+}
+mslug2cd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 1216,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Metal-Slug----CD--------------",
+    "manufacturer": "---NAZCA---------",
+    "year": 1998,
+    "genre": 1,
+    "screenshot": 100,
+    "NGH": "0000cd00"
+  }
+}
+mslugcd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 12160,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Metal-Slug--CD----------------",
+    "manufacturer": "---NAZCA---------",
+    "year": 1996,
+    "genre": 1,
+    "screenshot": 99,
+    "NGH": "0000cd00"
+  }
+}
+mutnatcd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 352,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Mutation-Nation--CD-----------",
+    "manufacturer": "---SNK-----------",
+    "year": 1995,
+    "genre": 1,
+    "screenshot": 106,
+    "NGH": "0000cd00"
+  }
+}
+nam1975cd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 128,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---NAM-------CD------------------",
+    "manufacturer": "---SNK-----------",
+    "year": 1994,
+    "genre": 1,
+    "screenshot": 107,
+    "NGH": "0000cd00"
+  }
+}
+ncombatcd.neo
+{
+  "filler": [
+    {
+      "offset": "00",
+      "value": "20"
+    },
+    {
+      "offset": "01",
+      "value": "44"
+    },
+    {
+      "offset": "02",
+      "value": "65"
+    },
+    {
+      "offset": "03",
+      "value": "6e"
+    },
+    {
+      "offset": "04",
+      "value": "73"
+    },
+    {
+      "offset": "05",
+      "value": "68"
+    },
+    {
+      "offset": "06",
+      "value": "69"
+    },
+    {
+      "offset": "07",
+      "value": "20"
+    },
+    {
+      "offset": "08",
+      "value": "43"
+    },
+    {
+      "offset": "09",
+      "value": "6f"
+    },
+    {
+      "offset": "0a",
+      "value": "2e"
+    }
+  ],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 128,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Ninja-Combat--CD--------------",
+    "manufacturer": "---Alpha-Denshi-C",
+    "year": 1994,
+    "genre": 1,
+    "screenshot": 108,
+    "NGH": "0000cd00"
+  }
+}
+ncommandcd.neo
+{
+  "filler": [
+    {
+      "offset": "00",
+      "value": "20"
+    },
+    {
+      "offset": "01",
+      "value": "44"
+    },
+    {
+      "offset": "02",
+      "value": "65"
+    },
+    {
+      "offset": "03",
+      "value": "6e"
+    },
+    {
+      "offset": "04",
+      "value": "73"
+    },
+    {
+      "offset": "05",
+      "value": "68"
+    },
+    {
+      "offset": "06",
+      "value": "69"
+    },
+    {
+      "offset": "07",
+      "value": "20"
+    },
+    {
+      "offset": "08",
+      "value": "43"
+    },
+    {
+      "offset": "09",
+      "value": "6f"
+    },
+    {
+      "offset": "0a",
+      "value": "2e"
+    }
+  ],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 64,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Ninja-Commando--CD------------",
+    "manufacturer": "---Alpha-Denshi-C",
+    "year": 1994,
+    "genre": 1,
+    "screenshot": 109,
+    "NGH": "0000cd00"
+  }
+}
+pbobblencd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 32,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Puzzle-Bobble--CD-------------",
+    "manufacturer": "---Taito---------",
+    "year": 1995,
+    "genre": 10,
+    "screenshot": 120,
+    "NGH": "0000cd00"
+  }
+}
+pspikes2cd.neo
+{
+  "filler": [
+    {
+      "offset": "00",
+      "value": "20"
+    },
+    {
+      "offset": "01",
+      "value": "53"
+    },
+    {
+      "offset": "02",
+      "value": "79"
+    },
+    {
+      "offset": "03",
+      "value": "73"
+    },
+    {
+      "offset": "04",
+      "value": "74"
+    },
+    {
+      "offset": "05",
+      "value": "65"
+    },
+    {
+      "offset": "06",
+      "value": "6d"
+    },
+    {
+      "offset": "07",
+      "value": "20"
+    },
+    {
+      "offset": "08",
+      "value": "43"
+    },
+    {
+      "offset": "09",
+      "value": "6f"
+    },
+    {
+      "offset": "0a",
+      "value": "2e"
+    }
+  ],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 64,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Power-Spikes-II--CD-----------",
+    "manufacturer": "---Video-System-C",
+    "year": 1995,
+    "genre": 3,
+    "screenshot": 125,
+    "NGH": "0000cd00"
+  }
+}
+puzzledcd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 64,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Puzzled--CD-------------------",
+    "manufacturer": "---SNK-----------",
+    "year": 1994,
+    "genre": 10,
+    "screenshot": 49,
+    "NGH": "0000cd00"
+  }
+}
+ralchase.neo
+{
+  "filler": [
+    {
+      "offset": "00",
+      "value": "20"
+    },
+    {
+      "offset": "01",
+      "value": "44"
+    },
+    {
+      "offset": "02",
+      "value": "65"
+    },
+    {
+      "offset": "03",
+      "value": "6e"
+    },
+    {
+      "offset": "04",
+      "value": "73"
+    },
+    {
+      "offset": "05",
+      "value": "68"
+    },
+    {
+      "offset": "06",
+      "value": "69"
+    },
+    {
+      "offset": "07",
+      "value": "20"
+    },
+    {
+      "offset": "08",
+      "value": "43"
+    },
+    {
+      "offset": "09",
+      "value": "6f"
+    },
+    {
+      "offset": "0a",
+      "value": "2e"
+    }
+  ],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 64,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Rally-Chase--CD---------------",
+    "manufacturer": "---Alpha-Denshi-C",
+    "year": 1994,
+    "genre": 4,
+    "screenshot": 170,
+    "NGH": "0000cd00"
+  }
+}
+ridherocd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 96,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Riding-Hero--CD---------------",
+    "manufacturer": "---SNK-----------",
+    "year": 1995,
+    "genre": 4,
+    "screenshot": 135,
+    "NGH": "0000cd00"
+  }
+}
+samsho2cd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 2240,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Samurai-Shodown-II--CD--------",
+    "manufacturer": "---SNK-----------",
+    "year": 1994,
+    "genre": 9,
+    "screenshot": 141,
+    "NGH": "0000cd00"
+  }
+}
+samsho3cd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 5088,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Samurai-Shodown-III--CD-------",
+    "manufacturer": "---SNK-----------",
+    "year": 1995,
+    "genre": 9,
+    "screenshot": 142,
+    "NGH": "0000cd00"
+  }
+}
+samsho4cd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 2560,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Samurai-Shodown-IV--CD--------",
+    "manufacturer": "---SNK-----------",
+    "year": 1996,
+    "genre": 9,
+    "screenshot": 143,
+    "NGH": "0000cd00"
+  }
+}
+samshocd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 256,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Samurai-Shodown--CD-----------",
+    "manufacturer": "---SNK-----------",
+    "year": 1994,
+    "genre": 9,
+    "screenshot": 140,
+    "NGH": "0000cd00"
+  }
+}
+sengokucd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 384,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Sengoku--CD-------------------",
+    "manufacturer": "---SNK-----------",
+    "year": 1995,
+    "genre": 1,
+    "screenshot": 148,
+    "NGH": "0000cd00"
+  }
+}
+socbrawlcd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 64,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Soccer-Brawl--CD--------------",
+    "manufacturer": "---SNK-----------",
+    "year": 1995,
+    "genre": 3,
+    "screenshot": 153,
+    "NGH": "0000cd00"
+  }
+}
+ssidekicd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 192,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Super-Sidekicks--CD-----------",
+    "manufacturer": "---SNK-----------",
+    "year": 1995,
+    "genre": 3,
+    "screenshot": 157,
+    "NGH": "0000cd00"
+  }
+}
+ssrpg.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 2208,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Samurai-Shodown-RPG--CD-------",
+    "manufacturer": "---SNK-----------",
+    "year": 1997,
+    "genre": 0,
+    "screenshot": 190,
+    "NGH": "0000cd00"
+  }
+}
+superspycd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 352,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---The-Super-Spy--CD-------------",
+    "manufacturer": "---SNK-----------",
+    "year": 1994,
+    "genre": 1,
+    "screenshot": 164,
+    "NGH": "0000cd00"
+  }
+}
+turfmastcd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 23776,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Neo-Turf-Masters--CD----------",
+    "manufacturer": "---NAZCA---------",
+    "year": 1996,
+    "genre": 3,
+    "screenshot": 171,
+    "NGH": "0000cd00"
+  }
+}
+viewpoincd.neo
+{
+  "filler": [
+    {
+      "offset": "00",
+      "value": "20"
+    },
+    {
+      "offset": "01",
+      "value": "2f"
+    },
+    {
+      "offset": "02",
+      "value": "20"
+    },
+    {
+      "offset": "03",
+      "value": "41"
+    },
+    {
+      "offset": "04",
+      "value": "69"
+    },
+    {
+      "offset": "05",
+      "value": "63"
+    },
+    {
+      "offset": "06",
+      "value": "6f"
+    },
+    {
+      "offset": "07",
+      "value": "6d"
+    }
+  ],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 224,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Viewpoint--CD-----------------",
+    "manufacturer": "---Sammy---Aicom-",
+    "year": 1995,
+    "genre": 7,
+    "screenshot": 174,
+    "NGH": "0000cd00"
+  }
+}
+wh1cd.neo
+{
+  "filler": [
+    {
+      "offset": "00",
+      "value": "20"
+    },
+    {
+      "offset": "01",
+      "value": "44"
+    },
+    {
+      "offset": "02",
+      "value": "65"
+    },
+    {
+      "offset": "03",
+      "value": "6e"
+    },
+    {
+      "offset": "04",
+      "value": "73"
+    },
+    {
+      "offset": "05",
+      "value": "68"
+    },
+    {
+      "offset": "06",
+      "value": "69"
+    },
+    {
+      "offset": "07",
+      "value": "20"
+    },
+    {
+      "offset": "08",
+      "value": "43"
+    },
+    {
+      "offset": "09",
+      "value": "6f"
+    },
+    {
+      "offset": "0a",
+      "value": "2e"
+    }
+  ],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 1024,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---World-Heroes--CD--------------",
+    "manufacturer": "---Alpha-Denshi-C",
+    "year": 1995,
+    "genre": 9,
+    "screenshot": 177,
+    "NGH": "0000cd00"
+  }
+}
+wjammerscd.neo
+{
+  "filler": [],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 64,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Windjammers--CD---------------",
+    "manufacturer": "---SNK-----------",
+    "year": 1994,
+    "genre": 3,
+    "screenshot": 181,
+    "NGH": "0000cd00"
+  }
+}
+zintrick.neo
+{
+  "filler": [
+    {
+      "offset": "00",
+      "value": "20"
+    },
+    {
+      "offset": "01",
+      "value": "44"
+    },
+    {
+      "offset": "02",
+      "value": "65"
+    },
+    {
+      "offset": "03",
+      "value": "6e"
+    },
+    {
+      "offset": "04",
+      "value": "73"
+    },
+    {
+      "offset": "05",
+      "value": "68"
+    },
+    {
+      "offset": "06",
+      "value": "69"
+    },
+    {
+      "offset": "07",
+      "value": "20"
+    },
+    {
+      "offset": "08",
+      "value": "43"
+    },
+    {
+      "offset": "09",
+      "value": "6f"
+    },
+    {
+      "offset": "0a",
+      "value": "2e"
+    }
+  ],
+  "sizes": {
+    "p": 0,
+    "s": 0,
+    "m": 0,
+    "v1": 256,
+    "v2": 0,
+    "c": 0
+  },
+  "metadata": {
+    "name": "---Oshidashi-Zintrix--CD---------",
+    "manufacturer": "---Alpha-Denshi-C",
+    "year": 1996,
+    "genre": 10,
+    "screenshot": 183,
+    "NGH": "0000cd00"
+  }
+}
+Done in 1.09s.
