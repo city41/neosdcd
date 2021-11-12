@@ -28,6 +28,8 @@ c,4: m data length
 4a,11: manufacturer, padded with zeros as needed
 52,fa5: filler, all zeroes, 4005d bytes long
 
+The first 91 bytes have data
+
 # data
 
 P Data, S Data, M Data, V Data then C Data. The size of each data section is game dependent and recorded in the header. The data sections have specific requirements such as interleaving, see neosdconv's source code for more info.
