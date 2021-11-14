@@ -68,3 +68,10 @@ RALLY0.SPR,0,0
 RALLY1.SPR,1,0
 RALLY2.SPR,2,0
 RALLY.PRG,0,0
+
+# experiment: have maglord's ipl.txt file be the same length
+
+I changed the maglord files from "ML" to "MAGLD" and updated the ipl.txt file accordingly.
+This caused maglord's ipl file to be 109 bytes, just like rally chase.
+
+This did not correct the fix layer corruption nor did it seem to change the running game in any way.
